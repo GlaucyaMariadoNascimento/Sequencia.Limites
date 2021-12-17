@@ -23,7 +23,7 @@ namespace Sequencia.Limites
 
             }
             else {
-                Console.WriteLine("Final post");
+                Console.WriteLine("Numero invalido, digite um numero maior no inicio");
 
             }
             
